@@ -1,2 +1,5 @@
 source_data
 derived_data
+.Rhistory
+.config/
+.local/
